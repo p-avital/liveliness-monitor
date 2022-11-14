@@ -1,10 +1,11 @@
 [package]
 name = "async-liveliness-monitor"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Pierre Avital <pierre.avital@gmail.com>"]
 description = "A Liveliness Monitor for your Asynchronous Runtimes"
 license = "MIT"
+repository = "https://github.com/p-avital/liveliness-monitor"
 
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
